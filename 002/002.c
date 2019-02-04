@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int p002(void) {
+int main(void) {
   int limit  = 4000000;
 
   unsigned int a = 1;
